@@ -23,6 +23,7 @@
 
 #
 DEVICE_FOLDER := device/nokia/NB1
+TW_DEVICE_VERSION := 2
 #
 
 # Bootloader
